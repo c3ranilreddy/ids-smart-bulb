@@ -1,0 +1,6 @@
+{
+    "name": "smartBulb",
+    "version": "1.0",
+    "description": "Training Repository",
+    "dependencies": { "server" : "7.23" }
+  }
