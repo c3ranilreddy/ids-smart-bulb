@@ -1,0 +1,6 @@
+{
+  "name" : "lab1",
+  "description" : "lab#1 exercises",
+  "author" : "ranil.reddy@c3iot.com",
+  "dependencies" : [ "standardDependencies" ]
+}
